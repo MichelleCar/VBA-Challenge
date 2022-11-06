@@ -27,7 +27,7 @@ Presented with a very large data file of daily stock fluctuation over the span o
   
   * One of the most valuable outcomes of this challenge was learning to think about the problem in a visual way and spending time examining what the limitations of your code are in correlation to the data set.  This is an area where I would like to focus more time building "muscle" but I found that actually drawing a small schematic at times helped to resolve errors that were simply a result of putting things in the wrong order.
   
-  ![VBA Challenge Flowchart](https://user-images.githubusercontent.com/115101031/200189270-3330d7f2-863d-4f95-badc-a574dd4021a6.jpg)
+  ![VBA Challenge Flowchart](https://user-images.githubusercontent.com/115101031/200189398-98c97212-60dc-4603-8500-4bd8047fe504.jpg)
 
   * Though I spent a lot of time online looking for answers, I found the best resource was returning to the classes.  Starting out as a complete neophyte to analytics, I got bogged down in trying to overcomplicate things (with only limited time to learn something that most people spend weeks learning).  Keeping it simple and working from the basics not only made the task easier, but also helped me see how the knowledge from classes applied in this context. And it gave me a chance to understand what I was doing.  A valuable lesson moving forward.  
   
