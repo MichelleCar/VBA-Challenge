@@ -105,12 +105,12 @@ Sub Create_StockData_Report()
 
             'BONUS: Add functionality to your script to return the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume" (per worksheet)
             
-            'Options that search for values <> zero won't work here, as it will simply return the first value that is <> zero and will stop (static operation)
+            'If ws.Cells(SummaryTable, 12) > 0 won't work here, as it will simply return the first value that is <> zero and will stop (static operation)
             'Key: create a loop that builds on itself. First need to establish a starting value and begin by adding that baseline to the cells where the max/min will be once it completes all iterations.
             'By adding a value to the BONUS cells, as the For Loop moves through each iteration, it is constantly being replaced (making it a dynamic operation)
             'https://www.geeksforgeeks.org/how-to-use-for-next-loop-in-excel-vba/
             'https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/fornext-statement
-                            'The For…Next statement syntax has these parts:
+                            'The For√âNext statement syntax has these parts:
                             'counter: Required. Numeric variable used as a loop counter. (2 to last row)
                             'start: Required. Initial value of counter. (set the Bonus cells to 0)
                             'end: Required. Final value of counter. (Max, Min)
